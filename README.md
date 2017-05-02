@@ -9,7 +9,7 @@ Usage
 1. java -jar AdvancedCameraSettings.jar
 2. Config all the webcams
 3. Save the config, so that config.ini is created
-4. during windows startup, run the loadconfig.bat (you can do a file shortcut at C:\Trakomatic\Cron\@reboot)
+4. during windows startup, run the loadconfig.bat
 
 
 Credits
